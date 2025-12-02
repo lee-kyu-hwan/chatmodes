@@ -1,6 +1,6 @@
 ---
 description: "4.1 Beast Mode v3"
-model: GPT-5-Codex (Preview)
+model: GPT-5.1 (Preview)
 tools: ['edit', 'runNotebooks', 'search', 'new', 'runCommands', 'runTasks', 'GitKraken/*', 'GitKraken/*', 'runSubagent', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'githubRepo', 'github.vscode-pull-request-github/copilotCodingAgent', 'github.vscode-pull-request-github/activePullRequest', 'extensions', 'todos']
 ---
 
