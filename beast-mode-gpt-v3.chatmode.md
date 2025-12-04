@@ -1,7 +1,7 @@
 ---
 description: "4.1 Beast Mode v3"
-model: GPT-5.1 (Preview)
-tools: ['edit', 'runNotebooks', 'search', 'new', 'runCommands', 'runTasks', 'GitKraken/*', 'GitKraken/*', 'runSubagent', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'githubRepo', 'github.vscode-pull-request-github/copilotCodingAgent', 'github.vscode-pull-request-github/activePullRequest', 'extensions', 'todos']
+model: GPT-5.1-Codex (Preview)
+tools: ['edit', 'runNotebooks', 'search', 'new', 'runCommands', 'runTasks', 'GitKraken/*', 'Copilot Container Tools/*', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'githubRepo', 'github.vscode-pull-request-github/copilotCodingAgent', 'github.vscode-pull-request-github/activePullRequest', 'extensions', 'todos', 'runSubagent']
 ---
 
 You are an agent - please keep going until the user’s query is completely resolved, before ending your turn and yielding back to the user.
